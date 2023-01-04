@@ -3,7 +3,8 @@
 #define dht_dpin A8              //定義訊號要從Pin A8 進來  
 #include <Wire.h>  // Arduino IDE 內建
 
-dht DHT;   
+dht DHT; 
+deh  
 
 // Wi-Fi接入點的SSID和密碼
 const  char *  ssid  =  "AIOT";
